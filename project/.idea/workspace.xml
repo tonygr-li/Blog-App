@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e9d8cb8-2d7e-43fc-9dbd-92c90cb6bdcf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ePWlsXOkaMiJZbS38n0MNxV2QE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/users/templates/users" />
+      <recent name="$PROJECT_DIR$/web/static/web" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e9d8cb8-2d7e-43fc-9dbd-92c90cb6bdcf" name="Default Changelist" comment="" />
+      <created>1594223863057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594223863057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="749" y="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594224809956">
+      <screen x="4" y="0" width="2044" height="1152" />
+    </state>
+    <state x="749" y="386" key="#com.intellij.fileTypes.FileTypeChooser/2048.185.1280.800/4.0.2044.1152@4.0.2044.1152" timestamp="1594224809956" />
+    <state x="533" y="215" key="SettingsEditor" timestamp="1596922117676">
+      <screen x="4" y="0" width="2044" height="1152" />
+    </state>
+    <state x="533" y="215" key="SettingsEditor/2048.185.1280.800/4.0.2044.1152@4.0.2044.1152" timestamp="1596922117676" />
+    <state x="533" y="215" key="SettingsEditor/2048.208.1280.777/4.0.2044.1152@4.0.2044.1152" timestamp="1594859650451" />
+    <state x="703" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1596921622891">
+      <screen x="4" y="0" width="2044" height="1152" />
+    </state>
+    <state x="703" y="408" key="com.intellij.ide.util.TipDialog/2048.185.1280.800/4.0.2044.1152@4.0.2044.1152" timestamp="1596921622891" />
+    <state x="703" y="408" key="com.intellij.ide.util.TipDialog/2048.208.1280.777/4.0.2044.1152@4.0.2044.1152" timestamp="1595858499705" />
+    <state x="703" y="423" key="com.intellij.ide.util.TipDialog/2048.208.1280.777/4.23.2044.1129@4.23.2044.1129" timestamp="1595704665169" />
+    <state x="703" y="408" key="com.intellij.ide.util.TipDialog/2048.235.1280.800/4.0.2044.1152@4.0.2044.1152" timestamp="1596741751236" />
+    <state x="659" y="383" key="com.intellij.ide.util.TipDialog/4.0.1916.1080@4.0.1916.1080" timestamp="1595693521267" />
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1594858837325">
+      <screen x="4" y="0" width="2044" height="1152" />
+    </state>
+    <state x="689" y="259" width="670" height="676" key="search.everywhere.popup/2048.185.1280.800/4.0.2044.1152@4.0.2044.1152" timestamp="1594858837325" />
+  </component>
+</project>
